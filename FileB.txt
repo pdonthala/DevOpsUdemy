@@ -1,2 +1,2 @@
 This is File B
-Change to fileB
+Change to fileB.
